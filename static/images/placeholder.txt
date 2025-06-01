@@ -1,0 +1,5 @@
+This directory should contain the following images:
+- getting-started.jpg
+- advanced-tips.jpg
+
+You can add your own images here. For now, you can use any placeholder images and rename them to match the filenames in topics.json. 
