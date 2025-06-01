@@ -1,0 +1,22 @@
+[
+    {
+        "slug": "getting-started",
+        "title": "Getting Started with Content Creation",
+        "prompt": "A beginner's guide to creating engaging content",
+        "content_type": "Tutorial",
+        "target_audience": "Beginners",
+        "tone": "Friendly",
+        "content_html": "<h2>Welcome to Content Creation</h2><p>This is a sample article to demonstrate how the content hub works. You can replace this with your actual generated content.</p><h3>Key Points</h3><ul><li>Understand your audience</li><li>Create engaging content</li><li>Use proper formatting</li><li>Include relevant images</li></ul>",
+        "image_filename": "getting-started.jpg"
+    },
+    {
+        "slug": "advanced-tips",
+        "title": "Advanced Content Creation Tips",
+        "prompt": "Advanced techniques for professional content creators",
+        "content_type": "Guide",
+        "target_audience": "Professionals",
+        "tone": "Professional",
+        "content_html": "<h2>Advanced Content Creation</h2><p>Take your content creation skills to the next level with these advanced techniques.</p><h3>Advanced Strategies</h3><ul><li>SEO optimization</li><li>Content scheduling</li><li>Analytics tracking</li><li>Audience engagement</li></ul>",
+        "image_filename": "advanced-tips.jpg"
+    }
+] 
